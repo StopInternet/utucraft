@@ -24,3 +24,6 @@ Version: 1.12.2
 
 仕様６：
 牛乳を使用した際、学校の給食にある牛乳を思い出して死ぬ。
+
+動画：
+https://www.youtube.com/watch?v=xi1YD0wtwUU&t=1s
